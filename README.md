@@ -12,6 +12,8 @@ This is an extension pack for Visual Studio Code with some Code Quality extensio
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=editorconfig.editorconfig)
 - [Gremlins tracker for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
+- [scss-lint](https://marketplace.visualstudio.com/items?itemName=adamwalzer.scss-lint)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [axe Accessibility Linter](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter)
@@ -19,6 +21,7 @@ This is an extension pack for Visual Studio Code with some Code Quality extensio
 - [Snyk Vulnerability Scanner](https://marketplace.visualstudio.com/items?itemName=snyk-security.snyk-vulnerability-scanner)
 - [Vuln Cost - Security Scanner](https://marketplace.visualstudio.com/items?itemName=snyk-security.vscode-vuln-cost)
 - [SonarLint](https://marketplace.visualstudio.com/items?itemName=sonarsource.sonarlint-vscode)
+
 
 ## Installation
 

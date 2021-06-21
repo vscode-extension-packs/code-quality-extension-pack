@@ -14,6 +14,8 @@
     "editorconfig.editorconfig",
     "nhoizey.gremlins",
     "DavidAnson.vscode-markdownlint",
+    "mkaufman.HTMLHint",
+    "adamwalzer.scss-lint",
     "dbaeumer.vscode-eslint",
     "streetsidesoftware.code-spell-checker",
     "deque-systems.vscode-axe-linter",
