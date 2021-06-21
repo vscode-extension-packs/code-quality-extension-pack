@@ -1,0 +1,44 @@
+{
+  "name": "code-quality-extension-pack",
+  "displayName": "Code Quality Extension Pack",
+  "description": "This is an extension pack for Visual Studio Code with some Code Quality extensions that are helpful for Web Development.",
+  "version": "1.0.0",
+  "publisher": "magnobiet",
+  "engines": {
+    "vscode": "^1.38.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "editorconfig.editorconfig",
+    "nhoizey.gremlins",
+    "DavidAnson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "streetsidesoftware.code-spell-checker",
+    "deque-systems.vscode-axe-linter",
+    "kisstkondoros.vscode-codemetrics",
+    "snyk-security.snyk-vulnerability-scanner",
+    "snyk-security.vscode-vuln-cost",
+    "sonarsource.sonarlint-vscode"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#fef7c5",
+    "theme": "light"
+  },
+  "scripts": {
+    "package": "npx vsce package",
+    "publish": "npx vsce publish"
+  },
+  "author": "Magno Biét <magno.biet@gmail.com> (https://magnobiet.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vscode-extension-packs/code-quality-extension-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vscode-extension-packs/code-quality-extension-pack/issues"
+  },
+  "homepage": "https://github.com/vscode-extension-packs/code-quality-extension-pack#readme"
+}
