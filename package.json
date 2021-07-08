@@ -15,7 +15,7 @@
     "nhoizey.gremlins",
     "DavidAnson.vscode-markdownlint",
     "mkaufman.HTMLHint",
-    "adamwalzer.scss-lint",
+    "stylelint.vscode-stylelint",
     "dbaeumer.vscode-eslint",
     "streetsidesoftware.code-spell-checker",
     "deque-systems.vscode-axe-linter",

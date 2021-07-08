@@ -13,7 +13,7 @@ This is an extension pack for Visual Studio Code with some Code Quality extensio
 - [Gremlins tracker for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
-- [scss-lint](https://marketplace.visualstudio.com/items?itemName=adamwalzer.scss-lint)
+- [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [axe Accessibility Linter](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter)
