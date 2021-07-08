@@ -2,7 +2,7 @@
   "name": "code-quality-extension-pack",
   "displayName": "Code Quality Extension Pack",
   "description": "This is an extension pack for Visual Studio Code with some Code Quality extensions that are helpful for Web Development.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "magnobiet",
   "engines": {
     "vscode": "^1.38.0"
