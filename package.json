@@ -2,7 +2,7 @@
   "name": "code-quality-extension-pack",
   "displayName": "Code Quality Extension Pack",
   "description": "This is an extension pack for Visual Studio Code with some Code Quality extensions that are helpful for Web Development.",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "publisher": "magnobiet",
   "engines": {
     "vscode": "^1.38.0"
@@ -12,10 +12,10 @@
   ],
   "extensionPack": [
     "editorconfig.editorconfig",
-    "nhoizey.gremlins",
     "DavidAnson.vscode-markdownlint",
-    "mkaufman.HTMLHint",
+    "HTMLHint.vscode-htmlhint",
     "stylelint.vscode-stylelint",
+    "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint",
     "streetsidesoftware.code-spell-checker",
     "deque-systems.vscode-axe-linter",
@@ -26,7 +26,7 @@
   ],
   "icon": "icon.png",
   "galleryBanner": {
-    "color": "#fef7c5",
+    "color": "#f6f6f7",
     "theme": "light"
   },
   "scripts": {
